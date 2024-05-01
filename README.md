@@ -10,7 +10,7 @@ Make PLC from Arduino and see everthing in TiaPortal
    Program have near 0 delay, can read multiple buttons at once (i have trouble with that) and if u want more I/O feel free to edit code.
    If any one will have questions send me a message fastest reply will be on redit and i will gladly help.
    All configuration takes around 10 minutes.
-   Good luck and tahnk you!
+   Good luck and thank you for nice words.
 
 
    Video link: https://youtu.be/xS1Xgg0rJjc
